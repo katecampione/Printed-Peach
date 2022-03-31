@@ -101,17 +101,8 @@
     </div>
   {% endif %}
 
-  <div class="subfooter">
-    {% assign country_selector = section.settings.show_currency_selector %}
-    {% assign locale_selector = section.settings.show_locale_selector %}
-    {% assign show_cross_border = false %}
-    {% if country_selector or locale_selector %}
-      {% assign show_cross_border = true %}
-    {% endif %}
-    {% assign show_payment_types = false %}
-    {% if shop.enabled_payment_types.size > 0 and section.settings.footer-payment-options %}
-      {% assign show_payment_types = true %}
-    {% endif %}
+  <div class="subfooter" style="text-align:center;">
+   
 
     {% capture year %}
       {{ "now" | date: "%Y" }}
@@ -120,11 +111,8 @@
       {% capture shopName %}
         {{ shop.name | link_to: routes.root_url }}
       {% endcapture %}
-      <p class="copyright" role="contentinfo">
-        {{ 'general.general.copyright_html' | t: year: year, shop_name: shopName }}
-      </p>
-      <p class="attribution">
-        {{ powered_by_link }}
+      <p style="text-align: center;" class="copyright" role="contentinfo">
+        {{ 'general.general.copyright_html' | t: year: year, shop_name: shopName}}
       </p>
     </div>
 
@@ -382,3 +370,13 @@
 }
 
 {% endschema %}
+<style>
+  .copyright {
+    text-align: center;
+  }
+  .copyright-wrapper {
+    float: none;
+    display: inline-table;
+    text-align: center;
+  }
+</style>
