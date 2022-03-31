@@ -113,8 +113,8 @@
         "764f3507-eed6-431d-93a2-c9587db4507a": {
           "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
-            "heading_font": "helvetica_n4",
-            "heading_size": 20,
+            "heading_font": "montserrat_n3",
+            "heading_size": 18,
             "feed_width": 100,
             "html_area": ""
           }
