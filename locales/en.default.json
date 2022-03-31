@@ -146,7 +146,7 @@
     },
     "footer": {
       "newsletter_subscribe": "Subscribe",
-      "social_heading": "Follow us out there",
+      "social_heading": "Follow us",
       "social_platform": "{{ name }} on {{ platform }}",
       "social_email": "Email"
     }
