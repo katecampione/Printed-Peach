@@ -1,0 +1,69 @@
+{
+  "sections": {
+    "1648078118097510b5": {
+      "type": "pxs-map",
+      "settings": {
+        "section_height": "medium",
+        "title": "The Printed Peach",
+        "content": "<p><a href=\"https:\/\/www.google.com\/maps\/dir\/\/The+Printed+Peach,+417+Whitaker+St,+Savannah,+GA+31401\/\" target=\"_blank\">417 Whitaker St. Savannah, GA 31401<\/a><\/p><p><\/p><p><strong>Store Hours: <\/strong><\/p><p>Monday - Saturday 10am - 5pm<br\/>Sunday: By Appointment Only<\/p><p><\/p>",
+        "text_alignment": "center",
+        "layout": "overlay-center-center",
+        "layout_mobile": "below",
+        "address": "1221 Broad St, Victoria, BC",
+        "api_key": "",
+        "enable_custom_colors": false,
+        "foreground_color": "#292929",
+        "background_color": "#ffffff",
+        "zoom": 2,
+        "image": "shopify:\/\/shop_images\/peach.jpg",
+        "image_position": "center center",
+        "overlay_color": "#000000",
+        "opacity": 10
+      }
+    },
+    "16480779038b42ece9": {
+      "type": "pxs-image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "section_height": "large",
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2022-03-23_at_5.26.26_PM.png",
+        "position": "center center",
+        "title": "",
+        "text": "",
+        "content_position": "center-center",
+        "color": "#ffffff",
+        "overlay_background": "#000000",
+        "overlay_opacity": 0,
+        "link": "",
+        "button_text": ""
+      }
+    },
+    "main": {
+      "type": "page",
+      "settings": {
+      }
+    },
+    "16480785413c042625": {
+      "type": "pxs-image-with-text-overlay",
+      "settings": {
+        "section_height": "large",
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2022-03-23_at_5.26.26_PM.png",
+        "position": "center center",
+        "title": "",
+        "text": "",
+        "content_position": "center-center",
+        "color": "#ffffff",
+        "overlay_background": "#000000",
+        "overlay_opacity": 0,
+        "link": "",
+        "button_text": ""
+      }
+    }
+  },
+  "order": [
+    "1648078118097510b5",
+    "16480779038b42ece9",
+    "main",
+    "16480785413c042625"
+  ]
+}

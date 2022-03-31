@@ -1,0 +1,147 @@
+{
+  "sections": {
+    "1648058343a77379d7": {
+      "type": "home-slideshow",
+      "blocks": {
+        "1648058343bce61898-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/new_arrival.jpg",
+            "content-alignment": "center",
+            "overlay-color": "#262626",
+            "title": "Spring in the New!",
+            "subheading": "SAVANNAH, GA | 2022",
+            "cta": "Shop New Arrivals",
+            "url": "shopify:\/\/collections\/new-arrivals"
+          }
+        }
+      },
+      "block_order": [
+        "1648058343bce61898-0"
+      ],
+      "settings": {
+        "layout": "full-width",
+        "controls-color": "",
+        "autoplay": false,
+        "autoplay_delay": 3,
+        "autoplay-hover-pause": false
+      }
+    },
+    "home_products-1": {
+      "type": "home-products",
+      "settings": {
+        "title": "New Arrivals!",
+        "collection": "new-arrivals",
+        "product-columns": 3,
+        "product-rows": 2,
+        "product-hover": "image-flip",
+        "product_stock_level_threshold": 5,
+        "product-badges": false,
+        "product-badges-icons": false
+      }
+    },
+    "16480724824add145e": {
+      "type": "home-product",
+      "blocks": {
+        "16480724829dc7253f-0": {
+          "type": "vendor",
+          "settings": {
+          }
+        },
+        "16480724829dc7253f-1": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "16480724829dc7253f-2": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "16480724829dc7253f-3": {
+          "type": "form",
+          "settings": {
+          }
+        },
+        "16480724829dc7253f-4": {
+          "type": "description",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "16480724829dc7253f-0",
+        "16480724829dc7253f-1",
+        "16480724829dc7253f-2",
+        "16480724829dc7253f-3",
+        "16480724829dc7253f-4"
+      ],
+      "settings": {
+        "product_handle": "gift-cards",
+        "enable_cart_redirection": false,
+        "show_payment_button": true,
+        "images_layout": "slideshow",
+        "enable_zoom": false,
+        "enable_video_autoplay": true,
+        "enable_video_looping": false
+      }
+    },
+    "home_map": {
+      "type": "pxs-map",
+      "settings": {
+        "section_height": "medium",
+        "title": "The Printed Peach",
+        "content": "<p><a href=\"https:\/\/www.google.com\/maps\/dir\/\/The+Printed+Peach,+417+Whitaker+St,+Savannah,+GA+31401\/\" target=\"_blank\" title=\"https:\/\/www.google.com\/maps\/dir\/\/The+Printed+Peach,+417+Whitaker+St,+Savannah,+GA+31401\/\"><strong>417 Whitaker St, Savannah, GA 31401<\/strong><\/a><\/p><p><strong>Hours:<\/strong><\/p><p><strong>Monday - Saturday: 10am - 5pm<br\/>Sunday: By Appointment Only<\/strong><\/p>",
+        "text_alignment": "center",
+        "layout": "overlay-center-center",
+        "layout_mobile": "below",
+        "address": "1221 Broad St, Victoria, BC",
+        "api_key": "",
+        "enable_custom_colors": false,
+        "foreground_color": "#292929",
+        "background_color": "#ffffff",
+        "zoom": 1,
+        "image": "shopify:\/\/shop_images\/peach.jpg",
+        "image_position": "center center",
+        "overlay_color": "#000000",
+        "opacity": 0
+      }
+    },
+    "1648749314864ba11d": {
+      "type": "apps",
+      "blocks": {
+        "764f3507-eed6-431d-93a2-c9587db4507a": {
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "heading_font": "helvetica_n4",
+            "heading_size": 20,
+            "feed_width": 100,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "764f3507-eed6-431d-93a2-c9587db4507a"
+      ],
+      "settings": {
+      }
+    },
+    "1648080062a5efae5a": {
+      "type": "pxs-newsletter",
+      "settings": {
+        "title": "Stay In The Know",
+        "text": "<p>Be the first to hear of new arrivals & promotions!<\/p>",
+        "desktop_alignment": "left",
+        "mobile_alignment": "top"
+      }
+    }
+  },
+  "order": [
+    "1648058343a77379d7",
+    "home_products-1",
+    "16480724824add145e",
+    "home_map",
+    "1648749314864ba11d",
+    "1648080062a5efae5a"
+  ]
+}

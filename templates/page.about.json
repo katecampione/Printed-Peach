@@ -1,0 +1,71 @@
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "settings": {
+      }
+    },
+    "1648077402c770d7d6": {
+      "type": "home-masonry",
+      "blocks": {
+        "16480774027577420e-0": {
+          "type": "image_feature",
+          "settings": {
+            "title": "",
+            "subheading": "",
+            "url": "",
+            "color": "black",
+            "mobile": true,
+            "image": "shopify:\/\/shop_images\/peach_a826abd4-9d82-4df9-a325-0d99f480e5d4.jpg",
+            "show_overlay": false,
+            "overlay_color": "#000000",
+            "opacity": 50
+          }
+        },
+        "16480774027577420e-3": {
+          "type": "image_feature",
+          "settings": {
+            "title": "",
+            "subheading": "",
+            "url": "",
+            "color": "black",
+            "mobile": true,
+            "image": "shopify:\/\/shop_images\/bryn.jpg",
+            "show_overlay": false,
+            "overlay_color": "#000000",
+            "opacity": 50
+          }
+        },
+        "16480774027577420e-1": {
+          "type": "image_feature",
+          "settings": {
+            "title": "",
+            "subheading": "",
+            "url": "",
+            "color": "black",
+            "mobile": true,
+            "image": "shopify:\/\/shop_images\/peach2.jpg",
+            "show_overlay": false,
+            "overlay_color": "#000000",
+            "opacity": 50
+          }
+        }
+      },
+      "block_order": [
+        "16480774027577420e-0",
+        "16480774027577420e-3",
+        "16480774027577420e-1"
+      ],
+      "settings": {
+        "layout": "content-width",
+        "gutters": true,
+        "hover": false,
+        "hover-animation": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1648077402c770d7d6"
+  ]
+}
