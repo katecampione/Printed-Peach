@@ -94,7 +94,7 @@
             "type": "rich-text",
             "settings": {
               "heading": "The Printed Peach",
-              "rich_text": "<p>Phone: xxx-xxx-xxxx<\/p>"
+              "rich_text": "<p>Phone: <a href=\"https:\/\/www.google.com\/search?q=the+printed+peach&oq=the+printed+peach&aqs=chrome.0.69i59l3j69i64j69i59j69i60l3.1984j0j1&sourceid=chrome&ie=UTF-8#\">(912) 233-6375<\/a><br\/><a href=\"https:\/\/www.google.com\/maps\/dir\/\/The+Printed+Peach,+417+Whitaker+St,+Savannah,+GA+31401\/\" target=\"_blank\" title=\"https:\/\/www.google.com\/maps\/dir\/\/The+Printed+Peach,+417+Whitaker+St,+Savannah,+GA+31401\/\">417 Whitaker St<br\/> Savannah, GA 31401<\/a><\/p>"
             }
           }
         },
