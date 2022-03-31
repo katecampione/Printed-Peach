@@ -94,7 +94,7 @@
             "type": "rich-text",
             "settings": {
               "heading": "The Printed Peach",
-              "rich_text": "<p>Phone: <a href=\"tel:912-233-6375\">(912) 233-6375<\/a><br><a href=\"mailto:shop@theprintedpeachsavannah.com?subject=Inquiry%20From%20Your%20Website\" class=\"link footer _2\">shop@theprintedpeachsavannah.com<\/a><br><a href=\"https:\/\/www.google.com\/maps\/dir\/\/The+Printed+Peach,+417+Whitaker+St,+Savannah,+GA+31401\/\" target=\"_blank\" title=\"https:\/\/www.google.com\/maps\/dir\/\/The+Printed+Peach,+417+Whitaker+St,+Savannah,+GA+31401\/\">417 Whitaker St<br> Savannah, GA 31401<\/a><\/p>"
+              "rich_text": "<p>Phone: <a href=\"tel:912-233-6375\">(912) 233-6375<\/a><br>Email: <a href=\"mailto:shop@theprintedpeachsavannah.com?subject=Inquiry%20From%20Your%20Website\" class=\"link footer _2\">shop@theprintedpeachsavannah.com<\/a><br><a href=\"https:\/\/www.google.com\/maps\/dir\/\/The+Printed+Peach,+417+Whitaker+St,+Savannah,+GA+31401\/\" target=\"_blank\" title=\"https:\/\/www.google.com\/maps\/dir\/\/The+Printed+Peach,+417+Whitaker+St,+Savannah,+GA+31401\/\">417 Whitaker St<br> Savannah, GA 31401<\/a><\/p>"
             }
           }
         },
