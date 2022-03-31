@@ -89,12 +89,20 @@
             "type": "social-links",
             "settings": {
             }
+          },
+          "6263187d-72c7-4e58-96bb-e0700a0fd55d": {
+            "type": "rich-text",
+            "settings": {
+              "heading": "The Printed Peach",
+              "rich_text": "<p>Phone: xxx-xxx-xxxx<\/p>"
+            }
           }
         },
         "block_order": [
           "1522268487363",
           "6e9eec21-2876-4929-b0bd-40a25b88976c",
-          "1501865688783"
+          "1501865688783",
+          "6263187d-72c7-4e58-96bb-e0700a0fd55d"
         ],
         "settings": {
           "headings": true,
