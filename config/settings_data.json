@@ -73,6 +73,13 @@
       "footer": {
         "type": "footer",
         "blocks": {
+          "6263187d-72c7-4e58-96bb-e0700a0fd55d": {
+            "type": "rich-text",
+            "settings": {
+              "heading": "The Printed Peach",
+              "rich_text": "<p><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0551\/8530\/9872\/files\/phone.png?v=1648758074\" height=\"16\" width=\"16\"> <a href=\"tel:912-233-6375\">(912) 233-6375<\/a><br><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0551\/8530\/9872\/files\/email_1.png?v=1648758508\" width=\"16\" height=\"16\"><a href=\"mailto:shop@theprintedpeachsavannah.com?subject=Inquiry%20From%20Your%20Website\" class=\"link footer _2\">shop@theprintedpeachsavannah.com<\/a><br><a href=\"https:\/\/www.google.com\/maps\/dir\/\/The+Printed+Peach,+417+Whitaker+St,+Savannah,+GA+31401\/\" target=\"_blank\" title=\"https:\/\/www.google.com\/maps\/dir\/\/The+Printed+Peach,+417+Whitaker+St,+Savannah,+GA+31401\/\">417 Whitaker St<br> Savannah, GA 31401<\/a><\/p>"
+            }
+          },
           "1522268487363": {
             "type": "menu",
             "settings": {
@@ -89,20 +96,13 @@
             "type": "social-links",
             "settings": {
             }
-          },
-          "6263187d-72c7-4e58-96bb-e0700a0fd55d": {
-            "type": "rich-text",
-            "settings": {
-              "heading": "The Printed Peach",
-              "rich_text": "<p>Phone: <a href=\"tel:912-233-6375\">(912) 233-6375<\/a><br>Email: <a href=\"mailto:shop@theprintedpeachsavannah.com?subject=Inquiry%20From%20Your%20Website\" class=\"link footer _2\">shop@theprintedpeachsavannah.com<\/a><br><a href=\"https:\/\/www.google.com\/maps\/dir\/\/The+Printed+Peach,+417+Whitaker+St,+Savannah,+GA+31401\/\" target=\"_blank\" title=\"https:\/\/www.google.com\/maps\/dir\/\/The+Printed+Peach,+417+Whitaker+St,+Savannah,+GA+31401\/\">417 Whitaker St<br> Savannah, GA 31401<\/a><\/p>"
-            }
           }
         },
         "block_order": [
+          "6263187d-72c7-4e58-96bb-e0700a0fd55d",
           "1522268487363",
           "6e9eec21-2876-4929-b0bd-40a25b88976c",
-          "1501865688783",
-          "6263187d-72c7-4e58-96bb-e0700a0fd55d"
+          "1501865688783"
         ],
         "settings": {
           "headings": true,
