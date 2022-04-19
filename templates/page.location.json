@@ -58,12 +58,48 @@
         "link": "",
         "button_text": ""
       }
+    },
+    "1650396379015946bf": {
+      "type": "home-message",
+      "blocks": {
+        "16503963791d9e1146-0": {
+          "type": "rich-text",
+          "settings": {
+            "rich_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "16503963791d9e1146-0"
+      ],
+      "settings": {
+        "border": false,
+        "heading": "Brynn's Savannah Checklist"
+      }
+    },
+    "16503963844b277cb2": {
+      "type": "pxs-image-with-text-overlay",
+      "settings": {
+        "section_height": "original",
+        "image": "shopify:\/\/shop_images\/1_png.jpg",
+        "position": "center center",
+        "title": "",
+        "text": "",
+        "content_position": "center-center",
+        "color": "#ffffff",
+        "overlay_background": "#000000",
+        "overlay_opacity": 0,
+        "link": "",
+        "button_text": "Button"
+      }
     }
   },
   "order": [
     "1648078118097510b5",
     "16480779038b42ece9",
     "main",
-    "16480785413c042625"
+    "16480785413c042625",
+    "1650396379015946bf",
+    "16503963844b277cb2"
   ]
 }
