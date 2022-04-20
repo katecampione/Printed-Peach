@@ -134,26 +134,6 @@
         "desktop_alignment": "left",
         "mobile_alignment": "top"
       }
-    },
-    "165047186969de710f": {
-      "type": "pxs-map",
-      "settings": {
-        "section_height": "medium",
-        "title": "Location",
-        "content": "<p>1221 Broad St<br\/>Victoria, BC<\/p>",
-        "text_alignment": "center",
-        "layout": "overlay-center-center",
-        "layout_mobile": "below",
-        "address": "1221 Broad St, Victoria, BC",
-        "api_key": "",
-        "enable_custom_colors": false,
-        "foreground_color": "#292929",
-        "background_color": "#ffffff",
-        "zoom": 2,
-        "image_position": "center center",
-        "overlay_color": "#000000",
-        "opacity": 10
-      }
     }
   },
   "order": [
@@ -162,7 +142,6 @@
     "16480724824add145e",
     "home_map",
     "1648749314864ba11d",
-    "1648080062a5efae5a",
-    "165047186969de710f"
+    "1648080062a5efae5a"
   ]
 }
