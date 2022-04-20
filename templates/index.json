@@ -89,11 +89,11 @@
     "home_map": {
       "type": "pxs-map",
       "settings": {
-        "section_height": "medium",
+        "section_height": "large",
         "title": "The Printed Peach",
         "content": "<p><a href=\"tel:912-233-6375\"><strong>(912) 233-6375<\/strong><\/a><\/p><p><a href=\"https:\/\/www.google.com\/maps\/dir\/\/The+Printed+Peach,+417+Whitaker+St,+Savannah,+GA+31401\/\" target=\"_blank\" title=\"https:\/\/www.google.com\/maps\/dir\/\/The+Printed+Peach,+417+Whitaker+St,+Savannah,+GA+31401\/\"><strong>417 Whitaker St, Savannah, GA 31401<br\/><\/strong><\/a><\/p><p><strong>Hours:<\/strong><\/p><p><strong>Monday - Sunday: 11am - 5pm<\/strong><\/p>",
         "text_alignment": "center",
-        "layout": "overlay-center-center",
+        "layout": "outside-center-left",
         "layout_mobile": "below",
         "address": "",
         "api_key": "",
@@ -101,8 +101,8 @@
         "foreground_color": "#292929",
         "background_color": "#ffffff",
         "zoom": 1,
-        "image": "shopify:\/\/shop_images\/Front_Door_Watercolor_80616e09-6ddd-4f5b-bb5b-3069597a7a8c.jpg",
-        "image_position": "center center",
+        "image": "shopify:\/\/shop_images\/Front_Door_Watercolor_7b46a63e-ff5c-4db7-92dc-2da29ebef4e7.jpg",
+        "image_position": "bottom center",
         "overlay_color": "#000000",
         "opacity": 0
       }
@@ -135,31 +135,24 @@
         "mobile_alignment": "top"
       }
     },
-    "16504707746cec0d96": {
-      "type": "store",
-      "blocks": {
-        "16504707747ecf5532-2": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Front_Door_Watercolor_80616e09-6ddd-4f5b-bb5b-3069597a7a8c.jpg",
-            "content-alignment": "center",
-            "overlay-color": "#262626",
-            "title": "The Printed Peach",
-            "subheading": "<p><a href=\"tel:912-233-6375\"><strong>(912) 233-6375<\/strong><\/a><\/p><p><a href=\"https:\/\/www.google.com\/maps\/dir\/\/The+Printed+Peach,+417+Whitaker+St,+Savannah,+GA+31401\/\" target=\"_blank\" title=\"https:\/\/www.google.com\/maps\/dir\/\/The+Printed+Peach,+417+Whitaker+St,+Savannah,+GA+31401\/\"><strong>417 Whitaker St, Savannah, GA 31401<br\/><\/strong><\/a><\/p><p><strong>Hours:<\/strong><\/p><p><strong>Monday - Sunday: 11am - 5pm<\/strong><\/p>",
-            "cta": "Get Directions",
-            "url": "https:\/\/www.google.com\/maps\/dir\/\/The+Printed+Peach,+417+Whitaker+St,+Savannah,+GA+31401\/"
-          }
-        }
-      },
-      "block_order": [
-        "16504707747ecf5532-2"
-      ],
+    "165047186969de710f": {
+      "type": "pxs-map",
       "settings": {
-        "layout": "full-width",
-        "controls-color": "",
-        "autoplay": false,
-        "autoplay_delay": 2,
-        "autoplay-hover-pause": false
+        "section_height": "medium",
+        "title": "Location",
+        "content": "<p>1221 Broad St<br\/>Victoria, BC<\/p>",
+        "text_alignment": "center",
+        "layout": "overlay-center-center",
+        "layout_mobile": "below",
+        "address": "1221 Broad St, Victoria, BC",
+        "api_key": "",
+        "enable_custom_colors": false,
+        "foreground_color": "#292929",
+        "background_color": "#ffffff",
+        "zoom": 2,
+        "image_position": "center center",
+        "overlay_color": "#000000",
+        "opacity": 10
       }
     }
   },
@@ -170,6 +163,6 @@
     "home_map",
     "1648749314864ba11d",
     "1648080062a5efae5a",
-    "16504707746cec0d96"
+    "165047186969de710f"
   ]
 }
