@@ -1,4 +1,4 @@
-<section class="layout-full-width">
+
 <script
   type="application/json"
   data-section-type="pxs-map"
@@ -23,6 +23,7 @@
     "zoom": {{ section.settings.zoom | json }}
   }
 </script>
+<section class="home-slideshow home-slideshow-layout-full-width" data-slideshow-layout="full-width">
 
 {% assign layout = section.settings.layout | split: '-' %}
 
@@ -111,7 +112,7 @@
 <p style="text-align: center; margin-top: 0px; padding-top: 0px;"><a class="home-slideshow-slide-cta button" href="https://www.google.com/maps/dir//The+Printed+Peach,+417+Whitaker+St,+Savannah,+GA+31401/">Get Directions</a></p>
 </div>
 <div style="text-align: start;"><a href="https://www.google.com/maps/dir//The+Printed+Peach,+417+Whitaker+St,+Savannah,+GA+31401/"></a></div>
-        </section>
+        
         <style><!--
 #shopify-section-template--15471842623664__main > h1 {
 display: none;
@@ -125,7 +126,7 @@ display: none;
     </div>
   {% endif %}
 </div>
-
+</section>
 {% schema %}
 {
   "name": "Map",
