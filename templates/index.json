@@ -6,7 +6,7 @@
         "1648058343bce61898-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/new_arrival.jpg",
+            "image": "shopify:\/\/shop_images\/new_backdrop.jpg",
             "content-alignment": "center",
             "overlay-color": "#262626",
             "title": "Spring in the New!",
@@ -111,7 +111,7 @@
       "type": "apps",
       "blocks": {
         "764f3507-eed6-431d-93a2-c9587db4507a": {
-          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
             "heading_font": "montserrat_n3",
             "heading_size": 18,
